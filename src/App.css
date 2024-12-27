@@ -5,8 +5,13 @@
 
 .shopping-card {
   justify-content: space-between;
-  background-color: #61dafb;
+  background-color: #116def;
   padding: 20px 30px;
+}
+
+.text-style {
+  color: whitesmoke;
+  font-family: 'Georgia', serif;
 }
 
 .product-item {
