@@ -12,6 +12,7 @@
 .text-style {
   color: whitesmoke;
   font-family: 'Georgia', serif;
+  cursor:pointer;
 }
 
 .product-item {
