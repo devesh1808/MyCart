@@ -15,6 +15,15 @@
   cursor:pointer;
 }
 
+.border-class {
+  border-style: solid;
+  border-color: black;
+}
+
+.button {
+  background-color: #116def;
+}
+
 .product-item {
   padding: 20px;
 }

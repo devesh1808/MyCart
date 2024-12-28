@@ -28,14 +28,14 @@ function App() {
       price: 50000,
     },
     {
-      url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfvoDzLqrT7GwU3z7Ccp0Cl9rV0ZnU9DcmEg&usqp=CAU",
+      url: "https://i5.walmartimages.com/seo/Dezsed-Wireless-Cam-Clearance-Hd-2048X1536P-Security-Camera-2-4-5Ghz-Dual-Band-Wifi-24-7-Recording-Outdoor-Wide-Angle-Surveillance-Home-White_458e5abb-37cb-43ba-8796-8f254520c317.7648c468d3431de066d8f03ed954e02b.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
       name: "Security Camera",
       category: "CCTV",
       seller: "Camron LTD",
       price: 4000,
     },
     {
-      url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG9e8Axt-h9q8EIybKfjGzbkIWJAr50_BX7Q&usqp=CAU",
+      url: "https://www.sonatawatches.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw1e7b2f04/images/Sonata/Catalog/87045WL01_1.jpg?sw=800&sh=800",
       name: "Watch Pink",
       category: "Watches",
       seller: "Watch Ltd",
